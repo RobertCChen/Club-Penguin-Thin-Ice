@@ -1,10 +1,10 @@
 ### Thin ice
 My recreation of Club Penguin's Thin Ice! Includes 11 levels and a level-creator sandbox mode.
 
-###### About
+### About
 Built using Java Swing in June 2017 for my AP CS final project.
 
-###### Demo
+### Demo
 Playable demo on repl.it: [https://repl.it/@robertcc/ThinIce](https://repl.it/@robertcc/ThinIce)
 (somewhat laggy and takes a few seconds to start after pressing run)
 
